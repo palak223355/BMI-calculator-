@@ -1,0 +1,32 @@
+.main{
+  background-color: grey;
+  border: 2px gray;
+  margin-left:6%;
+  padding: 20px; 
+  margin-top:40%;
+  border-radius: 10px;
+}
+
+h1{
+  text-align: center;
+}
+
+input{
+  background-color: white;
+  border: none;
+  border-radius: 3px;
+  margin: 8px;
+  margin-left: 20%;
+  padding: 10px;
+}
+ button{
+   border: none;
+   padding: 8px;
+   border-radius: 4px;
+  margin-left: 40%;
+   margin-top: 10px;
+ }
+.hello{
+  text-align: center;
+  margin:10px;
+}
